@@ -1,0 +1,4 @@
+-- bootstrap collapes sample
+https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_collapsible_accordion&stacked=h
+-- bootstrap icons
+https://www.w3schools.com/icons/icons_reference.asp
